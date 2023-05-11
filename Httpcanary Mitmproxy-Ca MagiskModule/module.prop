@@ -1,0 +1,6 @@
+id=httpcanarymitmproxysystemcamodule
+name=Httpcanary Mitmproxy System CA Module
+version=v1.0
+versionCode=1
+author=xiaolai
+description=固定mitmproxy和httpcanary證書到系統級別，讓系統信任mitmproxy和httpcanary的證書
