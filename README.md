@@ -1,0 +1,2 @@
+# Httpcanary-Mitmproxy-CA
+固定mitmproxy和httpcanary證書，讓系統信任mitmproxy和httpcanary的證書
