@@ -1,5 +1,5 @@
 # Httpcanary-Mitmproxy-CA
-固定mitmproxy和httpcanary證書，讓系統信任mitmproxy和httpcanary的證書
+固定mitmproxy和httpcanary證書，讓系統信任mitmproxy和httpcanary的證書 允許你在新的安卓系統上使用HC&mitm
 ## 使用方法
 用Magisk刷入Httpcanary Mitmproxy-Ca MagiskModule.zip 然後重啟你的設備
 
