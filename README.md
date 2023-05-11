@@ -3,7 +3,7 @@
 ## 使用方法
 用Magisk刷入Httpcanary Mitmproxy-Ca MagiskModule.zip 然後重啟你的設備
 
-##Httpcanary
+Httpcanary
 刷入後在/data/data/com.guoshi.httpcanary/cache/新建一個名為 HttpCanary.jks 的空白文檔 權限改為600
 
 *此模塊用模塊模板製作
